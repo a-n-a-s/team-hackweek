@@ -1,4 +1,4 @@
-# 🏏 Team Titans - Player Showcase Website
+# 🏏 Sydney Sixers - Player Showcase Website
 
 A visually stunning, stat-packed, and fan-friendly **one-page website** that displays Sydney Sixers and its superstar Indian cricket players. Clicking a player's card reveals a **dark-themed modal** with detailed stats like strike rate, matches played, and best performance.
 
